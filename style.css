@@ -1,21 +1,45 @@
 * {
     box-sizing: border-box;
+    font-family: 'Shadows Into Light', cursive;
 }
 
-.main-header-coffee {
+
+.jumbotron {
+    background-image: url("http://www.infortain.com/wp-content/uploads/2015/07/slider-patio-coffee-4.jpg");
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.transbox {
+    background: white;
+    opacity: 0.6;
     text-align: center;
-    height: 100px;
-    width: 100%;
-    border: 5px solid #f19b47;
-    background-color: #411d00;
-    position: relative;
-    color: white;
+    border-radius: 50px;
 }
 
-.coffee-h1 {
-    position: relative;
-    top: 7px;
-}
+
+
+
+
+
+/*.main-header-coffee {*/
+    /*text-align: center;*/
+    /*height: 300px;*/
+    /*width: 100%;*/
+    /*background-color: #411d00;*/
+    /*position: relative;*/
+    /*color: white;*/
+    /*background-image: url("https://www.healthline.com/hlcmsresource/images/AN_images/espresso-ground-coffee-beans-1296x728.jpg");*/
+    /*background-size: cover;*/
+/*}*/
+
+/*.coffee-h1 {*/
+    /*position: relative;*/
+    /*top: 7px;*/
+/*}*/
 
 .coffee-form {
     padding-top: 50px;
